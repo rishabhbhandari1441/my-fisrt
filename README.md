@@ -1,1 +1,1 @@
-# my-fisrt
+# this is my first repo for hacktoberfest
